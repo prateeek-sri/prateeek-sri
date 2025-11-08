@@ -1,4 +1,10 @@
-# 💫 About Me:
+<!-- Web Dev Banner -->
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+
+<!-- Your Info. -->
+<h1 align="center">Hi 👋, I'm Prateek Kumar Srivastav</h1>
+<h3 align="center"> MERN Stack Developer </h3>
+
 👋 Hi, I'm Prateek Kumar Srivatsav<br>🎓 I'm a student/developer passionate about learning and building full-stack applications<br>🌱 Currently learning: JavaScript, React Animations, DSA (Java) and MERN<br>🧠 Interested in: Developer Tools, Backend Systems, UI/UX<br>💼 Open to: Internships, Open Source Projects, Collaborations
 
 
