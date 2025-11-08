@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Kumar Srivastav</h1>
 <h3 align="center"> MERN Stack Developer </h3>
 
-👋 Hi, I'm Prateek Kumar Srivatsav<br>🎓 I'm a student/developer passionate about learning and building full-stack applications<br>🌱 Currently learning: JavaScript, React Animations, DSA (Java) and MERN<br>🧠 Interested in: Developer Tools, Backend Systems, UI/UX<br>💼 Open to: Internships, Open Source Projects, Collaborations
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.prateeek_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-kumar-srivastav)
 
