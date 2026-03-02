@@ -2,7 +2,7 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
 <!-- Your Info. -->
-<h1 align="center">Hi 👋, I'm Prateek Kumar Srivastav</h1>
+<h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center"> MERN Stack Developer </h3>
 
 ## 🌐 Socials:
