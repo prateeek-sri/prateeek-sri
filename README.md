@@ -30,9 +30,8 @@
 
 ## 📊Stats:
 
-![.](https://gitmystat.vercel.app/top?theme=&username=prateeek-sri&layout=default)
 ---
-[![](https://visitcount.itsvg.in/api?id=prateeek-sri&icon=0&color=0)](https://visitcount.itsvg.in)
-[![GitHub Streak](https://streak-stats.demolab.com?user=prateeek-sri&theme=tokyonight&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=prateeek-sri&theme=buefy-dark&title=.&hide=forks&show=reviews%2Cissues_closed)](https://bit.ly/gh-readme-profile)
+![.](https://gitmystat.vercel.app/top?theme=&username=prateeek-sri&layout=default)
+![.](https://gitmystat.vercel.app/user?theme=dark&username=prateeek-sri)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
