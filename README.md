@@ -35,5 +35,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prateeek-sri&icon=0&color=0)](https://visitcount.itsvg.in)
-[![GitHub Streak](https://streak-stats.demolab.com?user=!%5Bprateeek-sri's%20Streak%5D(https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dprateeek-sri%26theme%3Dvue-dark%26hide_border%3Dtrue)&theme=tokyonight&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prateeek-sri&theme=tokyonight&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
