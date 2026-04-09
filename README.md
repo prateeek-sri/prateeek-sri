@@ -30,8 +30,8 @@
 
 ## 📊Stats:
 
----
 ![.](https://gitmystat.vercel.app/top?theme=&username=prateeek-sri&layout=default)
+---
 ![.](https://gitmystat.vercel.app/user?theme=dark&username=prateeek-sri)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
