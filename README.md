@@ -33,7 +33,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=prateeek-sri&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateeek-sri&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-(https://gitmystat.vercel.app/top?theme=&username=prateeek-sri&layout=default)
+![.](https://gitmystat.vercel.app/top?theme=&username=prateeek-sri&layout=default)
 ---
 [![](https://visitcount.itsvg.in/api?id=prateeek-sri&icon=0&color=0)](https://visitcount.itsvg.in)
 [![GitHub Streak](https://streak-stats.demolab.com?user=prateeek-sri&theme=tokyonight&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
