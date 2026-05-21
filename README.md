@@ -27,10 +27,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
   </a>
 
-
-## 📊Stats:
-
-![.](https://gitmystat.vercel.app/top?theme=&username=prateeek-sri&layout=default)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
