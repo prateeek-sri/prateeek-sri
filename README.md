@@ -9,25 +9,6 @@
 <a href="https://instagram.com/https://instagram.com/_.prateeek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_.prateeek_" height="30" width="40" /></a>
 </p>
 
-## 💻Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-  <br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
-     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  </a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
@@ -211,65 +192,6 @@ A full-stack governance platform enabling communication between citizens and aut
 
 </details>
 
-<br>
-
-<details>
-<summary><b>Scam Detection Platform</b></summary>
-
-<br>
-
-### Overview
-
-AI-powered scam detection ecosystem capable of identifying fraudulent content across multiple formats.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | MERN, AI Models, MongoDB |
-| Scale | Community Driven Platform |
-| Performance | Real-time Analysis |
-| Security | JWT Auth & Protected APIs |
-| Impact | Scam Awareness & Prevention |
-| Repository | Private/In Progress |
-
-### Highlights
-
-- Text scam detection
-- Image scam analysis
-- Video scam verification
-- Community reporting
-- Voting system
-- AI moderation workflows
-
-</details>
-
----
-
-# Experience
-
-## Web Team Member — HackSlash
-
-**Apr 2025 – Present**
-
-Working on production-grade web applications and scalable backend systems.
-
-### Responsibilities
-
-- Developed production-ready features using React.js, Next.js, Express.js and MongoDB
-- Built RESTful APIs for authentication and content management
-- Improved frontend responsiveness through optimized loading strategies
-- Implemented cloud storage integration
-- Enhanced modular backend architecture
-
-### Skills
-
-`Next.js`
-`React.js`
-`Express.js`
-`MongoDB`
-`REST APIs`
-`System Design`
-`Performance Optimization`
-
 ---
 
 # Achievements
@@ -289,21 +211,10 @@ Working on production-grade web applications and scalable backend systems.
 
 # Certifications
 
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle)
 
 ## NPTEL
 
 ![](https://img.shields.io/badge/NPTEL-Computer_Science-2563EB?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -400,31 +311,6 @@ Open To:
   - Collaborations
   - Research Opportunities
 ```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:prateekkumarsrivastav99@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/prateek">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/prateeek-sri">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://prateeksrivastav.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
