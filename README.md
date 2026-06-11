@@ -2,15 +2,14 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 
-## 🌐Socials:
+# Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/prateek-kumar-srivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prateek-kumar-srivastav" height="30" width="40" /></a> 
-<a href="https://instagram.com/https://instagram.com/_.prateeek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_.prateeek_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prateek-kumar-srivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prateek-kumar-srivastav" height="30" width="40" /></a> 
+<a href="https://instagram.com/_.prateeek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_.prateeek_" height="30" width="40" /></a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
 
 <div align="center">
 
@@ -20,35 +19,11 @@
 
 <br/>
 
-![](https://img.shields.io/badge/NIT_Patna-CSE-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/GPA-9.30%2F10-2563EB?style=for-the-badge)
-![](https://img.shields.io/badge/Class_of-2029-4F46E5?style=for-the-badge)
 
-![](https://img.shields.io/badge/Location-Patna%2C_India-2563EB?style=for-the-badge)
-
-<br/>
 
 <a href="https://prateeksrivastav.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<a href="https://linkedin.com/in/prateek">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:prateekkumarsrivastav99@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/prateeek-sri">
-<img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=prateeek-sri&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/prateeek-sri?style=for-the-badge&color=2563EB)
-![](https://img.shields.io/github/stars/prateeek-sri?affiliations=OWNER&style=for-the-badge&color=4F46E5)
 
 </div>
 
@@ -111,22 +86,9 @@ My focus lies in designing maintainable systems, writing clean code, and develop
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
 
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Generative AI | Advanced | Gemini API Integration, Prompt Engineering |
-| Resume Intelligence | Advanced | ATS Analysis, Resume Ranking Systems |
-| NLP | Intermediate | Keyword Extraction, Text Processing |
-| AI Product Development | Advanced | AI Powered Web Applications |
-| Recommendation Systems | Intermediate | Candidate Matching Workflows |
-| Data Processing | Intermediate | Structured Parsing Pipelines |
 
 ---
 
@@ -202,7 +164,7 @@ A full-stack governance platform enabling communication between citizens and aut
 |-------------|----------|
 | DSA Problem Solving | Solved 400+ problems across coding platforms |
 | Hackathon Achievement | Runner-Up at NIT Patna Intra College Hackathon 2026 |
-| Academic Excellence | GPA 9.30/10 at NIT Patna |
+| Academic Excellence | GPA 9.54/10 at NIT Patna |
 | Open Source | Active Contributor & Builder |
 
 </div>
@@ -218,29 +180,6 @@ A full-stack governance platform enabling communication between citizens and aut
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
 
 # GitHub Analytics
 
@@ -256,15 +195,7 @@ A full-stack governance platform enabling communication between citizens and aut
 
 ---
 
-# GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prateeek-sri&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # Contribution Activity
 
@@ -276,22 +207,12 @@ A full-stack governance platform enabling communication between citizens and aut
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prateeek-sri/prateeek-sri/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
 ```yaml
 Learning:
   - Spring Boot
-  - PostgreSQL
   - System Design
   - Distributed Systems
 
