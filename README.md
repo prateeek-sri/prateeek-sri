@@ -1,40 +1,58 @@
-
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 
-# Socials:
+# 🌐 Socials
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prateek-kumar-srivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prateek-kumar-srivastav" height="30" width="40" /></a> 
-<a href="https://instagram.com/_.prateeek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_.prateeek_" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/prateek-kumar-srivastav">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+&nbsp;
+<a href="mailto:prateekkumarsrivastav99@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/_.prateeek_">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
 </p>
 
 ---
 
 # About Me
 
-Computer Science undergraduate at **National Institute of Technology Patna** with a strong foundation in software engineering, backend architecture, system design fundamentals, and scalable web application development.
+```java
+public class Prateek {
 
-I enjoy building products that solve real-world problems through a combination of:
+    String education = "B.Tech CSE @ NIT Patna";
 
-- Backend Engineering
-- Full Stack Development
-- Artificial Intelligence
-- Performance Optimization
-- Database Design
-- API Development
-- Open Source Collaboration
+    String[] interests = {
+        "Backend Engineering",
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "System Design"
+    };
 
-My focus lies in designing maintainable systems, writing clean code, and developing applications that can scale from prototype to production.
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "Distributed Systems",
+        "Cloud Architecture"
+    };
 
-### Open To
+    private final List<String> openTo = List.of(
+        "Internships",
+        "Open Source",
+        "Collaborations",
+        "Hackathons"
+    );
 
-- Software Engineering Internships
-- Backend Engineering Roles
-- Full Stack Development Opportunities
-- Open Source Collaborations
-- AI/ML Projects
-- Hackathons
+    String currentFocus =
+        "Building scalable products and solving real-world problems";
+}
+```
 
 ---
 
@@ -43,33 +61,25 @@ My focus lies in designing maintainable systems, writing clean code, and develop
 ## Languages
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c"/>
-
 </p>
 
 ## Frontend
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-
 </p>
 
 ## Backend & Databases
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
-
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
-
 </p>
 
 ---
@@ -88,8 +98,6 @@ My focus lies in designing maintainable systems, writing clean code, and develop
 
 ---
 
-
-
 # Contribution Activity
 
 <div align="center">
@@ -99,7 +107,6 @@ My focus lies in designing maintainable systems, writing clean code, and develop
 </div>
 
 ---
-
 
 # Current Focus
 
@@ -117,19 +124,14 @@ Exploring:
   - LLM Applications
   - Cloud Architecture
   - Event Driven Systems
-
-Open To:
-  - Internships
-  - Open Source
-  - Collaborations
-  - Research Opportunities
 ```
+
 ---
 
 <div align="center">
 
 *"Engineering scalable products, solving meaningful problems, and building technology that creates impact."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6A5ACD,50:7C3AED,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:ff006e,20:8338ec,40:3a86ff,60:00b4d8,80:06d6a0,100:ffd60a&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 </div>
