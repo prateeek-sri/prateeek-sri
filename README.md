@@ -84,6 +84,84 @@ public class Prateek {
 
 ---
 
+
+# Featured Projects
+
+<details open>
+<summary><b>🚀 Jobify — AI Resume Intelligence Platform</b></summary>
+
+<br>
+
+### Overview
+
+AI-powered resume analysis platform that evaluates resumes against job descriptions and generates ATS-style feedback using Gemini AI.
+
+### Tech Stack
+
+```txt
+Next.js • MongoDB • Gemini API • JWT • TailwindCSS
+```
+
+### Highlights
+
+- AI-powered resume analysis and scoring
+- ATS compatibility evaluation
+- Skill extraction using Gemini API
+- Resume-to-job matching engine
+- Optimized MongoDB queries
+- Average response time below 200ms
+
+### Impact
+
+- Reduced manual resume screening effort
+- Automated candidate evaluation workflows
+- Improved recruiter productivity
+
+### Repository
+
+🔗 https://github.com/prateeek-sri/Jobify
+
+</details>
+
+
+<details>
+<summary><b>🌉 Civic Bridge — Community Reporting Platform</b></summary>
+
+<br>
+
+### Overview
+
+Full-stack platform connecting citizens and authorities through a centralized complaint management system.
+
+### Tech Stack
+
+```txt
+Next.js • Express.js • MongoDB • Session Auth • TailwindCSS
+```
+
+### Highlights
+
+- Role-based access control
+- Secure complaint submission workflow
+- Real-time complaint tracking
+- Protected backend APIs
+- Responsive multi-step reporting system
+- Optimized MongoDB performance
+
+### Impact
+
+- Improved complaint management workflows
+- Reduced API latency by 320ms
+- Enhanced accessibility and user experience
+
+### Repository
+
+🔗 https://github.com/prateeek-sri/civic-bridge
+
+</details>
+
+---
+
 # GitHub Analytics
 
 <div align="center">
@@ -135,3 +213,4 @@ Exploring:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:ff006e,20:8338ec,40:3a86ff,60:00b4d8,80:06d6a0,100:ffd60a&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 </div>
+
