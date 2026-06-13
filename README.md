@@ -166,7 +166,9 @@ Next.js • Express.js • MongoDB • Session Auth • TailwindCSS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prateeek-sri&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prateeek-sri&show_icons=true&theme=tokyonight&border_radius=10" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prateeek-sri&theme=tokyonight&hide_border=true"/>
 
