@@ -20,6 +20,8 @@
 
 </p>
 
+
+
 ---
 
 # About Me
@@ -175,6 +177,7 @@ Next.js • Express.js • MongoDB • Session Auth • TailwindCSS
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeek-sri&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+<img src="https://komarev.com/ghpvc/?username=prateeek-sri&label=Profile%20views&color=0e75b6&style=flat" alt="prateeek-sri" />
 
 ---
 
