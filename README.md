@@ -210,7 +210,7 @@ Exploring:
 
 <div align="center">
 
-*"<i>"Nah, I'd Push to Production."</i>"*
+*"<i>"Nah, I'd Push to Production"</i>"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:ff006e,20:8338ec,40:3a86ff,60:00b4d8,80:06d6a0,100:ffd60a&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
