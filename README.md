@@ -1,11 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
-
 <h1 align="center">Hi 👋, I'm Prateek</h1>
-
-# 🌐 Socials
-
 <p align="center">
-
 <a href="https://www.linkedin.com/in/prateek-kumar-srivastav">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
@@ -214,7 +209,6 @@ Exploring:
 
 *"<i>"Nah, I'd Push to Production."</i>"*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:ff006e,20:8338ec,40:3a86ff,60:00b4d8,80:06d6a0,100:ffd60a&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
-
+<img width="100%" src="https://i.pinimg.com/originals/4b/ea/ca/4beaca89dc536ab5b2766d00af2f095e.gif?type=waving&section=footer&height=180&color=0:ff006e,20:8338ec,40:3a86ff,60:00b4d8,80:06d6a0,100:ffd60a&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 </div>
 
